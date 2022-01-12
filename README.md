@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there I'm Chenlu Miao👋
 
 <!--
 **miaochenlu/miaochenlu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+- 🔭 I'm now a master student at Zhejiang University.
+- 📫 My research interest includes Computer Architecture and Hardware Security.
+
+![](https://github-readme-stats.vercel.app/api?username=miaochenlu&theme=dark)
+
+2022 Project Plans 🤔
+- [ ] RCore
+- [ ] Linux Server
+- [ ] Leveldb
