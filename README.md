@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - 🔭 I'm now a master student at Zhejiang University.
 - 📫 My research interests include Computer Architecture and Hardware Security.
 
-![](https://github-readme-stats.vercel.app/api?username=miaochenlu&theme=dark)
+![](https://github-readme-stats.vercel.app/api?username=miaochenlu)
 
 2022 Project Plans 🤔
 - [ ] RCore
