@@ -19,9 +19,11 @@ Here are some ideas to get you started:
 - 🔭 I'm now a master student at Zhejiang University.
 - 📫 My research interests include Computer Architecture and Hardware Security.
 
-![](https://github-readme-stats.vercel.app/api?username=miaochenlu)
+
+<img src="https://github-readme-stats.vercel.app/api?username=miaochenlu" height="150" align="right" style="margin: 5px; margin-bottom: 20px;" />
 
 2022 Project Plans 🤔
 - [ ] RCore
+- [ ] Cache Side Channel & Covert Channel Attack
 - [ ] Linux Server
 - [ ] Leveldb
