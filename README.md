@@ -1,5 +1,4 @@
-### Hi there I'm Chenlu Miao <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-
+### Hi there <img src="https://c.tenor.com/StmGV2_YmjEAAAAi/winking-face-joypixels.gif" width=30> I'm Chenlu Miao <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width=30>
 <!--
 **miaochenlu/miaochenlu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
