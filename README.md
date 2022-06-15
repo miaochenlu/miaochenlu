@@ -21,6 +21,6 @@ Here are some ideas to get you started:
 <img src="https://github-readme-stats.vercel.app/api?username=miaochenlu" height="150" align="right" style="margin: 5px; margin-bottom: 20px;" />
 
 2022 Project Plans 🤔
-- [ ] Tomasulo CPU
+- [x] Tomasulo CPU
 - [ ] RCore
 - [ ] Cache Side Channel & Covert Channel Attack
