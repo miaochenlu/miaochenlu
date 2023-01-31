@@ -23,7 +23,5 @@ Here are some ideas to get you started:
 <img src="https://github-readme-stats.vercel.app/api?username=miaochenlu&count_private=true&theme=onedark" height="150" align="right" style="margin: 5px; margin-bottom: 20px;" />
 
 
-2022 Project Plans 🤔
-- [x] Tomasulo CPU
-- [ ] RCore
-- [ ] Cache Side Channel & Covert Channel Attack
+2023 Project Plans 🤔
+- [ ] UCore
