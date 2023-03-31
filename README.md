@@ -17,10 +17,11 @@ Here are some ideas to get you started:
 -->
 
 
+<img src="https://github-readme-stats.vercel.app/api?username=miaochenlu&count_private=true&theme=onedark" height="150" align="right" style="margin: 5px; margin-bottom: 20px;" />
+
 - 🔭 I'm now a master student at Zhejiang University.
 - 📫 My research interests include Computer Architecture and Hardware Security.
 
-<img src="https://github-readme-stats.vercel.app/api?username=miaochenlu&count_private=true&theme=onedark" height="150" align="right" style="margin: 5px; margin-bottom: 20px;" />
 
 
 2023 Project Plans 🤔
