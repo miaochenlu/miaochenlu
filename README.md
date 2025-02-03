@@ -21,6 +21,6 @@ Here are some ideas to get you started:
 
 
 
-2023 Project Plans 🤔
-- [ ] Rocket-Chip Reading
-- [ ] BlueSpec Core
+2025 Project Plans 🤔
+- [ ] GPGPU
+- [ ] TPU
